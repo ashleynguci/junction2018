@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Light Censor",
+    "mac": "3c:97:0e:da:3c:65",
+    "type": "light sensor",
+    "data_history": {
+      "Light (unit: lm)": [
+        {
+          "date": 1543087889,
+          "value": "35"
+        },
+        {
+          "date": 1543087919,
+          "value": "60"
+        },
+        {
+          "date": 1543087949,
+          "value": "85"
+        },
+        {
+          "date": 1543087979,
+          "value": "42"
+        },
+        {
+          "date": 1543088009,
+          "value": "32"
+        }
+      ]
+    },
+    "cisco_health_data": {
+      "healthScore": 7
+    }
+  },
+
+  {
+    "name": "Temperature Censor",
+    "mac": "7c:45:0f:cd:4f:12",
+    "type": "temperature censor",
+    "data_history": {
+      "Temperature (unit: ℃)": [
+        {
+          "date": 1543087889,
+          "value": "17"
+        },
+        {
+          "date": 1543087919,
+          "value": "18"
+        },
+        {
+          "date": 1543087949,
+          "value": "25"
+        },
+        {
+          "date": 1543087979,
+          "value": "20"
+        },
+        {
+          "date": 1543088009,
+          "value": "15"
+        }
+      ]
+    },
+    "cisco_health_data": {
+      "healthScore": 8
+    }
+  },
+
+  {
+    "name": "Humidity Censor",
+    "mac": "8g:d7:0e:b5:1a:14",
+    "type": "humidity censor",
+    "data_history": {
+      "Humidity (unit: %)": [
+        {
+          "date": 1543092479,
+          "value": "50"
+        },
+        {
+          "date": 1543092509,
+          "value": "60"
+        },
+        {
+          "date": 1543092539,
+          "value": "85"
+        },
+        {
+          "date": 1543092569,
+          "value": "40"
+        },
+        {
+          "date": 1543091489,
+          "value": "65"
+        }
+      ]
+    },
+    "cisco_health_data": {
+      "healthScore": 6
+    }
+  },
+
+  {
+    "name": "Sound Censor",
+    "mac": "4d:5a:0b:4a:7c:05",
+    "type": "sound censor",
+    "data_history": {
+      "Sound (unit: dB)": [
+        {
+          "date": 1543092239,
+          "value": "12"
+        },
+        {
+          "date": 1543092269,
+          "value": "35"
+        },
+        {
+          "date": 1543087949,
+          "value": "25"
+        },
+        {
+          "date": 1543092299,
+          "value": "9"
+        },
+        {
+          "date": 1543092359,
+          "value": "17"
+        }
+      ]
+    },
+    "cisco_health_data": {
+      "healthScore": 5
+    }
+  },
+
+  {
+    "name": "Fridge Censor",
+    "mac": "2d:13:4f:3c:5f:51",
+    "type": "fridge censor",
+    "data_history": {
+      "Temperature (unit: ℃)": [
+        {
+          "date": 1543091609,
+          "value": "9"
+        },
+        {
+          "date": 1543091639,
+          "value": "10"
+        },
+        {
+          "date": 1543091669,
+          "value": "12"
+        },
+        {
+          "date": 1543091699,
+          "value": "8"
+        },
+        {
+          "date": 1543091729,
+          "value": "9"
+        }
+      ],
+      "Humidity (unit: %)": [
+        {
+          "date": 1543091609,
+          "value": "35"
+        },
+        {
+          "date": 1543091639,
+          "value": "20"
+        },
+        {
+          "date": 1543091669,
+          "value": "24"
+        },
+        {
+          "date": 1543091699,
+          "value": "27"
+        },
+        {
+          "date": 1543091729,
+          "value": "32"
+        }
+      ]
+    },
+    "cisco_health_data": {
+      "healthScore": 10
+    }
+  }
+]
